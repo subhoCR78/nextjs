@@ -1,0 +1,6 @@
+Question - When would you choose to use Edge Functions, Serverless Functions, or Edge
+Middleware with Vercel?
+
+Use Edge Functions -  For low-latency, edge-level processing of HTTP requests and responses, such as URL rewriting and security enforcement.
+Use Serverless Functions - For dynamic server-side logic and backend processing, such as API endpoints and data processing tasks.
+Use Edge Middleware -  For reusable request/response manipulation logic that needs to be applied consistently across multiple routes or applications, such as authentication and request logging.
