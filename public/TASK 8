@@ -45,3 +45,8 @@ Best regards,
 
 Subhajit Banerjee
 Manager,customer Support
+
+
+Decision Making Process:
+
+In crafting the response, I considered the customer's request for redirecting the /blog path to a specific URL. Since the customer didn't specify their server environment or technical proficiency, I provided instructions for both server-side and client-side redirection methods to cater to different scenarios. This approach ensures that the customer has multiple options to choose from based on their requirements and technical capabilities. Additionally, I included clear and concise instructions with examples to facilitate ease of implementation for the customer.
