@@ -1,0 +1,29 @@
+Question - Imagine a customer writes in requesting help with a build issue on a framework or
+technology that you've not seen before. How would you begin troubleshooting this and
+what questions would you ask the customer to understand the situation better?
+
+
+When faced with a build issue on a framework or technology , I would approach the troubleshooting process systematically and collaboratively with the customer. Here's how I would begin:
+
+Gather Information: Request detailed information from the customer regarding the build issue. This might include error messages, logs, configuration files, and any specific steps or commands they've used during the build process.
+
+Understand the Environment: Ask about the environment in which the build is being performed. This includes the operating system, version of the framework or technology, dependencies, and any relevant tools or libraries being used.
+
+Reproduce the Issue: Attempt to reproduce the issue on a local development environment. This allows me to experience the problem firsthand and gain insights into potential causes.
+
+Review Documentation and Resources: Conduct research to familiarize myself with the framework or technology in question. Review official documentation, forums, community resources, and relevant tutorials to gain a basic understanding of its architecture, common issues, and best practices.
+
+Ask Clarifying Questions: Engage in a dialogue with the customer to gather additional context and clarify any ambiguities. Some questions I might ask include:
+
+What specific steps led to the build issue?
+Have there been any recent changes or updates to the project or environment?
+Are there any known limitations or compatibility issues with the framework or technology?
+Are there any custom configurations or plugins being used in the build process?
+Has the build process been successful in the past, or is this a new issue?
+Experiment with Solutions: Based on the information gathered, propose potential solutions or troubleshooting steps to the customer. This might involve adjusting configuration settings, updating dependencies, or trying alternative build commands.
+
+Iterate and Communicate: Continuously communicate with the customer throughout the troubleshooting process. Provide regular updates on progress, discuss findings, and seek feedback on proposed solutions. Iterate on troubleshooting steps based on feedback and additional information gathered.
+
+Seek Help if Needed: If the issue persists or requires expertise beyond my knowledge, escalate the case to more experienced colleagues or seek assistance from the framework or technology's official support channels.
+
+By following this approach, I aim to collaborate effectively with the customer, gather relevant information, and methodically troubleshoot the build issue to reach a resolution.
