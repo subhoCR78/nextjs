@@ -1,0 +1,30 @@
+Question - What do you think is one of the most common problems which customers ask Vercel for
+help with? How would you help customers to overcome common problems, short-term
+and long-term?
+
+
+One of the most common problems that customers may ask Vercel for help with is related to deployment and configuration issues. This could include difficulties in deploying their applications successfully, setting up custom domains, configuring environment variables, managing serverless functions, or troubleshooting build errors.
+
+To help customers overcome these common problems, both in the short-term and long-term, Vercel can implement the following strategies:
+
+Short-Term Solutions:
+
+1.Comprehensive Documentation: Provide detailed and accessible documentation covering all aspects of deployment and configuration on the Vercel platform. Include step-by-step guides, troubleshooting tips, and best practices to help customers resolve immediate issues independently.
+
+2.Responsive Support: Offer prompt and effective customer support through various channels such as live chat, email, and community forums. Ensure that support agents are knowledgeable and equipped to address common problems quickly and efficiently.
+
+3.Interactive Tutorials: Develop interactive tutorials and walkthroughs within the Vercel dashboard to guide customers through common tasks and configurations. This hands-on approach can help customers overcome specific challenges in real-time.
+
+4.Diagnostic Tools: Implement diagnostic tools within the Vercel platform to assist customers in identifying and diagnosing deployment and configuration issues. These tools could include build logs, error messages, and automated checks for common misconfigurations.
+
+Long-Term Solutions:
+
+1.User Education Programs: Offer ongoing user education programs, including webinars, workshops, and training sessions, to empower customers with in-depth knowledge and skills related to deployment and configuration on the Vercel platform. These programs can cover advanced topics and techniques to address more complex challenges.
+
+2.Community Engagement: Foster a vibrant and supportive community of users through forums, discussion boards, and social media channels. Encourage users to share their experiences, tips, and solutions to common problems, creating a collaborative environment where customers can learn from each other.
+
+3.Continuous Improvement: Regularly gather feedback from customers regarding their pain points, challenges, and suggestions for improvement. Use this feedback to iteratively enhance the platform's features, usability, and documentation to better address customer needs and prevent common problems from arising.
+
+4.Proactive Monitoring and Alerts: Implement proactive monitoring systems to detect and alert customers about potential deployment or configuration issues before they escalate. Provide actionable insights and recommendations to help customers resolve issues proactively and prevent downtime or disruption to their applications.
+
+By implementing these short-term and long-term strategies, Vercel can effectively help customers overcome common deployment and configuration problems, ultimately improving their overall experience and success on the platform.
